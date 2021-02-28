@@ -1,0 +1,18 @@
+mnemonic1 = "derive load chapter decide hip actress rug pen helmet fantasy avoid damage disease error velvet add candy despair math assume lucky maple width above mass"
+mnemonic2 = "stamp rib atom limit crew defy case trophy helmet brain parrot surround enroll doctor cherry giggle large ride aerobic sponsor giggle skill helmet able assist"
+mnemonic3 = "safe problem mammal borrow federal rent hurdle worry pencil barely intact evil tower daring claw maximum hip inmate foil thought talk easily vanish absent boy"
+
+Account 1 address: TDNGCYLB3ZAJDXINUESSNTOEVHROULFX3SJ3F34T6JU6VFY5PH2LJ7GD6I
+Account 2 address: EYM36UXESOP4ZIF26ARCPXVIBHTGABOTSSARNN66TJ65GYDINZIRH27Y3I
+Account 3 address: SFGEIP6IRIBUKGAQVNGLPXE5T432N2A2LJFCJOUS3XVPKOQQ6IQLJJKV2Y
+
+Account 1: Buyer [Create LOC] [Receive BOL]
+Account 2: Seller [Receive LOC]
+Account 3: Shipper [Create BOL]
+
+LOC: Letter of Credit 
+BOL: Bill of Lading
+
+Atomic Transfer: 
+Txn1: Buyer transfer Letter of Credit to Seller
+Txn2: Shipper transfer Bill of Lading to Buyer

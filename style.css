@@ -1,0 +1,11 @@
+.reminder {
+    color: red;
+}
+
+#next {
+    display: none;
+}
+
+.row {
+    width: 50% !important;
+}
